@@ -9,7 +9,7 @@
 
 <!-- ## My Blog -->
 
-## <a href="https://https://cs-summaries.blogspot.com/">CS Summaries</a>
+## <a href="https://https://cs-summaries.blogspot.com/">CS Summaries Blog</a>
 
 
 ## .Net (Various)
