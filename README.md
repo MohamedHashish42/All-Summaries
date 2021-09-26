@@ -7,9 +7,9 @@
 <a href="https://github.com/MohamedHashish42/Data-Structures-And-Algorithms">3- Data-Structures and Algorithms</a>
 
 
-## My Blog
+<!-- ## My Blog -->
 
-<a href="https://https://cs-summaries.blogspot.com/">CS Summaries</a>
+## <a href="https://https://cs-summaries.blogspot.com/">CS Summaries</a>
 
 
 ## .Net (Various)
