@@ -1,3 +1,9 @@
+
+ <H2 align="center">
+بسم الله الرحمن الرحيم
+</h2>
+
+
 ## CS Summaries
 
 <a href="https://github.com/MohamedHashish42/SOLID_PRINCIPLES">1- Solid Principles</a>
@@ -9,7 +15,7 @@
 
 <!-- ## My Blog -->
 
-## <a href="https://https://cs-summaries.blogspot.com/">CS Summaries Blog</a>
+#### <a href="https://https://cs-summaries.blogspot.com/">CS Summaries Blog</a>
 
 
 ## .Net (Various)
