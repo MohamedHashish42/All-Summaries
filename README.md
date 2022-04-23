@@ -15,7 +15,7 @@
 
 <!-- ## My Blog -->
 
-#### <a href="https://https://cs-summaries.blogspot.com/">CS Summaries Blog</a>
+#### <a href="https://cs-summaries.blogspot.com/">CS Summaries Blog</a>
 
 
 ## .Net (Various)
