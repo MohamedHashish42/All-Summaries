@@ -13,10 +13,6 @@
 <a href="https://github.com/MohamedHashish42/Data-Structures-And-Algorithms">3- Data-Structures and Algorithms</a>
 
 
-<!-- ## My Blog -->
-
-#### <a href="https://cs-summaries.blogspot.com/">CS Summaries Blog</a>
-
 
 ## .Net (Various)
  
